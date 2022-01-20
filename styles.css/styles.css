@@ -932,7 +932,6 @@ ul {
   background-color: var(--hover-color);
   background-image: url(../images/check.svg);
   background-repeat: no-repeat;
-  /* background-size: 11px 8px; */
   background-position: 50% 50%;
 
   border: none;
